@@ -1,5 +1,7 @@
 # cambioemtemporeal
 
+Dependencias: Zabbix e Grafana
+
 Este painel foi feito para monitorar o valor do dólar americano, dólar canadense e euro em reais.
 
 This dashboard was made to monitor the value of US dollar, Canadian dollar and Euro to brazilian Real R$.
